@@ -1,6 +1,6 @@
 # Spring Security + JWT + Asymmetric Encryption
 
-This repository is a walkthrough on how to use Spring security with oauth2 (asymmetric encryption) approach.
+This repository is a walkthrough on how to use Spring security with jwt (asymmetric encryption) approach.
 
 ## Getting Started
 
